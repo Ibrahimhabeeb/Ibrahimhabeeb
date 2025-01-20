@@ -38,7 +38,7 @@ If you want to reach out to me, feel free to connect on:
 
 ## 📝 Blog Posts
 
-<!-- BLOG-POST-LIST:END -->
+https://medium.com/p/8013312d0e2f/edit
 
 ---
 
