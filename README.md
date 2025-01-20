@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Habeeb
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin/)
+
 
 ---
 
