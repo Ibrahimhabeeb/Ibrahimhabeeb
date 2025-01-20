@@ -26,9 +26,9 @@ Here are some of the technologies I work with:
 
 ## 📫 Contact Me
 If you want to reach out to me, feel free to connect on:
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/habeeb-ibrahim-ab0003232/)
-- **Twitter**: [Your Twitter](https://twitter.com/venomhhh)
-- **Email**: [Your Email](ibrahim.habeeb2004@gmail.com)
+- **LinkedIn**: [](https://www.linkedin.com/in/habeeb-ibrahim-ab0003232/)
+- **Twitter**: [](https://twitter.com/venomhhh)
+- **Email**: [](ibrahim.habeeb2004@gmail.com)
 
 ---
 
