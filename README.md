@@ -27,8 +27,8 @@ Here are some of the technologies I work with:
 ## 📫 Contact Me
 If you want to reach out to me, feel free to connect on:
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- **Twitter**: [Your Twitter](https://twitter.com/your-username)
-- **Email**: [Your Email](mailto:your.email@example.com)
+- **Twitter**: [Your Twitter]([https://twitter.com/your-username](https://www.linkedin.com/in/habeeb-ibrahim-ab0003232/))
+- **Email**: [Your Email](ibrahim.habeeb2004@gmail.com)
 
 ---
 
@@ -37,9 +37,7 @@ If you want to reach out to me, feel free to connect on:
 ---
 
 ## 📝 Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How to build a Slack clone with MongoDB, Docker, and WebSockets](https://your-blog-link)
-- [Deploying Node.js applications to AWS using EC2, Docker, and CloudFormation](https://your-blog-link)
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -52,6 +50,6 @@ If you want to reach out to me, feel free to connect on:
 ---
 
 <p align="center">
-  <img src="https://github.com/your-username.png" width="150px">
+  <img src="https://github.com/Ibrahimhabeeb.png" width="150px">
 </p>
 
