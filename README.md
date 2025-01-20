@@ -9,13 +9,14 @@
 Here are some of the technologies I work with:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=339933" alt="Node.js">
-  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=007ACC" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&color=336791" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&color=47A248" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Code-Linux-informational?style=flat&logo=linux&color=FCC624" alt="Linux">
-  <img src="https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&color=2496ED" alt="Docker">
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </p>
 
 ---
